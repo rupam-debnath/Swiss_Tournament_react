@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+}
+.btn {
+    background-color: white; /* Green */
+    border:1px;
+    padding: 15px 32px;
+    text-align: center;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    user-select: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn:hover {
+  color: white;
+  background-color:brown;
+}
+
+.btn--loading {
+  color: white;
+  background-color:grey;
+}
+
+
+.title {
+  width: 100%;
+  text-align: center;
+}
+
+.home {
+  padding-left: 600px;
+  max-width: 900px;
+}
+
+.login {
+  margin-left: -80px;
+  /*width: 50px;
+  height: 25px;*/
+}
+
+.signup {
+  margin-left: 50px;
+  /*width: 50px;
+  height: 25px;*/
+}

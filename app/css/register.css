@@ -1,0 +1,14 @@
+.form {
+    text-align: center;
+}
+.form__field-label {
+    padding-right: 30px;
+    margin: 15px;
+}
+.form__field-wrapper {
+    padding-bottom: 20px;
+}
+.btn {
+  color: white;
+  background-color:orange;
+}

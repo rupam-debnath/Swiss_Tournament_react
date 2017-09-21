@@ -1,0 +1,8 @@
+.nav {
+  display: flex;
+  margin-right: 30px;
+}
+
+.nav li {
+  margin-right: 30px;
+}
